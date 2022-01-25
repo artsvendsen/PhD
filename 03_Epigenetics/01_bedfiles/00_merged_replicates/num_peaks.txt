@@ -1,0 +1,11 @@
+   16099 01_H3K4me3_Young_Sara_max_merged_replicates.bed
+   19286 02_H3K4me3_Old_Sara_max_merged_replicates.bed
+   27628 03_H3K27me3_Young_Sara_max_merged_replicates.bed
+   22801 04_H3K27me3_Old_Sara_max_merged_replicates.bed
+   15303 05_H3K4me3_Young_Sun_max_merged_replicates.bed
+   16562 06_H3K4me3_Old_Sun_max_merged_replicates.bed
+   49926 07_H3K27me3_Young_Sun_max_merged_replicates.bed
+   36780 08_H3K27me3_Old_Sun_max_merged_replicates.bed
+   47018 09_H3K36me3_Young_Sun_max_merged_replicates.bed
+   32212 10_H3K36me3_Old_Sun_max_merged_replicates.bed
+  283615 total
