@@ -1,0 +1,30 @@
+gene,location
+ Aldh1a1,cytosol
+ Clec1a,membrane
+ Dhrs3,membrane
+ Dnmt3b,nucleus
+ Exoc6b,membrane
+ Fyb,nucleus
+ Jun,nucleus
+ Lpl,extracel
+ Lpl,membrane
+ Ly6e,membrane
+ Mcm5,cytosol
+ Mcm5,nucleus
+ Mef2c,nucleus
+ Ppp1r16b,nucleus
+ Ppp1r16b,membrane
+ Prcp,lysosome
+ Prtn3,lysosome
+ Prtn3,extracel
+ Prtn3,membrane
+ Ramp2,membrane
+ Selp,membrane
+ Sult1a1,cytosol
+Tgm2,cytosol
+Tgm2,ER
+Tgm2,extracel
+Tgm2,membrane
+Nupr1,nucleus
+Sult1a1,cytosol
+Tmem176a,membrane

@@ -1,0 +1,17 @@
+train.set,Mann,Kirschner,Kowalczyk,Grover,best,classification
+Mann,0.9493,0.6687,0.8354,0.8376,5,ADAboost
+Kirschner,0.7189,0.8735,0.6738,0.7179,5,ADAboost
+Kowalczyk,0.8341,0.6446,0.9604,0.8376,5,ADAboost
+Grover,0.8525,0.6386,0.8262,1,5,ADAboost
+Mann,0.8894,0.6687,0.8872,0.9231,5,RNDforrest
+Kirschner,0.7742,0.7711,0.811,0.7778,5,RNDforrest
+Kowalczyk,0.8525,0.5964,0.8994,0.9231,5,RNDforrest
+Grover,0.8525,0.6084,0.8262,0.9829,5,RNDforrest
+Mann,1,0.6867,0.8567,0.8034,20,ADAboost
+Kirschner,0.6129,0.9819,0.5549,0.5641,20,ADAboost
+Kowalczyk,0.8157,0.5904,1,0.735,20,ADAboost
+Grover,0.8848,0.6024,0.8689,1,20,ADAboost
+Mann,0.9263,0.6446,0.872,0.8547,20,RNDforrest
+Kirschner,0.7189,0.8494,0.628,0.8291,20,RNDforrest
+Kowalczyk,0.8894,0.6265,0.9543,0.8718,20,RNDforrest
+Grover,0.8756,0.6265,0.7988,0.9658,20,RNDforrest
