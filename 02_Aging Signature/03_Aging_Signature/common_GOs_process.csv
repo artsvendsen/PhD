@@ -1,0 +1,40 @@
+erm ID,description,frequency,pin?,uniqueness,dispensability
+GO:0002376,immune system process,0.60%,,0.97,0
+GO:0009611,response to wounding,0.13%,,0.76,0
+GO:0009987,cellular process,63.78%,,0.99,0
+GO:0030154,cell differentiation,1.13%,,0.72,0
+GO:0032501,multicellular organismal process,2.37%,,0.98,0
+GO:0050878,regulation of body fluid levels,0.07%,,0.74,0
+GO:0050896,response to stimulus,12.21%,,0.98,0
+GO:0051704,multi-organism process,0.75%,,0.98,0
+GO:0065007,biological regulation,20.50%,,0.98,0
+GO:0098609,cell-cell adhesion,0.25%,,0.94,0
+GO:0046649,lymphocyte activation,0.12%,,0.69,0.17
+GO:0040008,regulation of growth,0.17%,,0.73,0.19
+GO:0065009,regulation of molecular function,1.73%,,0.68,0.24
+GO:0051050,positive regulation of transport,0.19%,,0.64,0.24
+GO:0042127,regulation of cell proliferation,0.31%,,0.67,0.26
+GO:0051338,regulation of transferase activity,0.37%,,0.71,0.26
+GO:0001932,regulation of protein phosphorylation,0.43%,,0.64,0.27
+GO:0051239,regulation of multicellular organismal process,0.63%,,0.58,0.28
+GO:0009719,response to endogenous stimulus,0.53%,,0.75,0.31
+GO:0048518,positive regulation of biological process,1.74%,,0.67,0.31
+GO:0032101,regulation of response to external stimulus,0.16%,,0.56,0.32
+GO:0048523,negative regulation of cellular process,1.83%,,0.61,0.33
+GO:0042493,response to drug,0.27%,,0.72,0.33
+GO:0048519,negative regulation of biological process,1.98%,,0.67,0.33
+GO:0009605,response to external stimulus,1.37%,,0.73,0.39
+GO:0007166,cell surface receptor signaling pathway,0.92%,,0.52,0.41
+GO:0048583,regulation of response to stimulus,1.12%,,0.54,0.42
+GO:0050794,regulation of cellular process,18.84%,,0.58,0.47
+GO:0042221,response to chemical,3.07%,,0.71,0.47
+GO:0007167,enzyme linked receptor protein signaling pathway,0.28%,,0.55,0.48
+GO:0010243,response to organonitrogen compound,0.14%,,0.71,0.54
+GO:0006950,response to stress,4.58%,,0.7,0.56
+GO:0048535,lymph node development,0.00%,,0.64,0.6
+GO:1901700,response to oxygen-containing compound,0.50%,,0.7,0.6
+GO:1901701,cellular response to oxygen-containing compound,0.35%,,0.69,0.62
+GO:0035556,intracellular signal transduction,4.00%,,0.45,0.64
+GO:0010033,response to organic substance,0.90%,,0.69,0.68
+GO:0031347,regulation of defense response,0.13%,,0.56,0.68
+GO:0051716,cellular response to stimulus,9.56%,,0.66,0.68

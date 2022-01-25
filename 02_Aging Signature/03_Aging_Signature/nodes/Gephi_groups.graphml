@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+<key attr.name="label" attr.type="string" for="node" id="label"/>
+<key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+<key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+<key attr.name="r" attr.type="int" for="node" id="r"/>
+<key attr.name="g" attr.type="int" for="node" id="g"/>
+<key attr.name="b" attr.type="int" for="node" id="b"/>
+<key attr.name="x" attr.type="float" for="node" id="x"/>
+<key attr.name="y" attr.type="float" for="node" id="y"/>
+<key attr.name="size" attr.type="float" for="node" id="size"/>
+<key attr.name="modularity class" attr.type="int" for="node" id="modularity class"/>
+<graph edgedefault="undirected">
+<node id="1">
+<data key="label">""membrane""</data>
+<data key="modularity class">2</data>
+<data key="size">100.0</data>
+<data key="r">27</data>
+<data key="g">117</data>
+<data key="b">0</data>
+<data key="x">1.0184021</data>
+<data key="y">-2.425262</data>
+</node>
+<node id="7">
+<data key="label">"" cytoplasm ""</data>
+<data key="modularity class">1</data>
+<data key="size">45.62832</data>
+<data key="r">27</data>
+<data key="g">117</data>
+<data key="b">0</data>
+<data key="x">-288.31787</data>
+<data key="y">-38.685623</data>
+</node>
+<node id="12">
+<data key="label">"" nucleus ""</data>
+<data key="modularity class">1</data>
+<data key="size">38.83186</data>
+<data key="r">27</data>
+<data key="g">117</data>
+<data key="b">0</data>
+<data key="x">-205.55988</data>
+<data key="y">198.47893</data>
+</node>
+<node id="3">
+<data key="label">""secreted""</data>
+<data key="modularity class">1</data>
+<data key="size">26.088495</data>
+<data key="r">27</data>
+<data key="g">117</data>
+<data key="b">0</data>
+<data key="x">270.90607</data>
+<data key="y">-92.20989</data>
+</node>
+<node id="2">
+<data key="label">""endoplasmicreticulum""</data>
+<data key="modularity class">1</data>
+<data key="size">10.79646</data>
+<data key="r">27</data>
+<data key="g">117</data>
+<data key="b">0</data>
+<data key="x">-445.953</data>
+<data key="y">307.3697</data>
+</node>
+<node id="9">
+<data key="label">"" extracellular ""</data>
+<data key="modularity class">1</data>
+<data key="size">10.79646</data>
+<data key="r">27</data>
+<data key="g">117</data>
+<data key="b">0</data>
+<data key="x">359.5205</data>
+<data key="y">-390.1077</data>
+</node>
+<node id="0">
+<data key="label">""mitochondrion""</data>
+<data key="modularity class">1</data>
+<data key="size">9.097345</data>
+<data key="r">27</data>
+<data key="g">117</data>
+<data key="b">0</data>
+<data key="x">244.48729</data>
+<data key="y">473.02414</data>
+</node>
+<node id="4">
+<data key="label">"" lysosome ""</data>
+<data key="modularity class">1</data>
+<data key="size">9.097345</data>
+<data key="r">27</data>
+<data key="g">117</data>
+<data key="b">0</data>
+<data key="x">248.67548</data>
+<data key="y">158.60251</data>
+</node>
+<node id="13">
+<data key="label">"" golgiapparatus ""</data>
+<data key="modularity class">1</data>
+<data key="size">9.097345</data>
+<data key="r">27</data>
+<data key="g">117</data>
+<data key="b">0</data>
+<data key="x">92.470505</data>
+<data key="y">-278.07416</data>
+</node>
+<node id="16">
+<data key="label">"" cytoskeleton ""</data>
+<data key="modularity class">1</data>
+<data key="size">7.39823</data>
+<data key="r">27</data>
+<data key="g">117</data>
+<data key="b">0</data>
+<data key="x">-158.74747</data>
+<data key="y">-253.20908</data>
+</node>
+<node id="6">
+<data key="label">"" microsome ""</data>
+<data key="modularity class">1</data>
+<data key="size">6.5486727</data>
+<data key="r">27</data>
+<data key="g">117</data>
+<data key="b">0</data>
+<data key="x">27.007738</data>
+<data key="y">290.398</data>
+</node>
+<node id="8">
+<data key="label">"" endosome ""</data>
+<data key="modularity class">1</data>
+<data key="size">5.699115</data>
+<data key="r">27</data>
+<data key="g">117</data>
+<data key="b">0</data>
+<data key="x">-121.26436</data>
+<data key="y">-529.23914</data>
+</node>
+<node id="11">
+<data key="label">"" melanosome ""</data>
+<data key="modularity class">1</data>
+<data key="size">5.699115</data>
+<data key="r">27</data>
+<data key="g">117</data>
+<data key="b">0</data>
+<data key="x">-365.36743</data>
+<data key="y">-412.86722</data>
+</node>
+<node id="10">
+<data key="label">"" extracellularmatrix ""</data>
+<data key="modularity class">1</data>
+<data key="size">4.8495574</data>
+<data key="r">27</data>
+<data key="g">117</data>
+<data key="b">0</data>
+<data key="x">518.5701</data>
+<data key="y">-190.8673</data>
+</node>
+<node id="17">
+<data key="label">"" desmosome ""</data>
+<data key="modularity class">1</data>
+<data key="size">4.8495574</data>
+<data key="r">27</data>
+<data key="g">117</data>
+<data key="b">0</data>
+<data key="x">-541.88336</data>
+<data key="y">69.677086</data>
+</node>
+<node id="5">
+<data key="label">"" peroxisome ""</data>
+<data key="modularity class">1</data>
+<data key="size">4.0</data>
+<data key="r">27</data>
+<data key="g">117</data>
+<data key="b">0</data>
+<data key="x">-251.4883</data>
+<data key="y">479.7631</data>
+</node>
+<node id="14">
+<data key="label">"" membraneprotein ""</data>
+<data key="modularity class">1</data>
+<data key="size">4.0</data>
+<data key="r">27</data>
+<data key="g">117</data>
+<data key="b">0</data>
+<data key="x">454.00522</data>
+<data key="y">319.7863</data>
+</node>
+<node id="15">
+<data key="label">"" cytosol ""</data>
+<data key="modularity class">1</data>
+<data key="size">4.0</data>
+<data key="r">27</data>
+<data key="g">117</data>
+<data key="b">0</data>
+<data key="x">534.38385</data>
+<data key="y">68.406296</data>
+</node>
+<node id="18">
+<data key="label">"" cilium ""</data>
+<data key="modularity class">1</data>
+<data key="size">4.0</data>
+<data key="r">27</data>
+<data key="g">117</data>
+<data key="b">0</data>
+<data key="x">141.8862</data>
+<data key="y">-536.4527</data>
+</node>
+<node id="19">
+<data key="label">"" microsomemitochondrion ""</data>
+<data key="modularity class">1</data>
+<data key="size">4.0</data>
+<data key="r">27</data>
+<data key="g">117</data>
+<data key="b">0</data>
+<data key="x">-4.388878</data>
+<data key="y">553.4272</data>
+</node>
+<node id="20">
+<data key="label">"" phagosome ""</data>
+<data key="modularity class">1</data>
+<data key="size">4.0</data>
+<data key="r">27</data>
+<data key="g">117</data>
+<data key="b">0</data>
+<data key="x">-509.9607</data>
+<data key="y">-194.79485</data>
+</node>
+<edge id="0" source="0" target="1">
+<data key="weight">3.0</data>
+</edge>
+<edge id="1" source="0" target="2">
+<data key="weight">3.0</data>
+</edge>
+<edge id="2" source="0" target="3">
+<data key="weight">2.0</data>
+</edge>
+<edge id="3" source="0" target="5">
+<data key="weight">1.0</data>
+</edge>
+<edge id="4" source="0" target="6">
+<data key="weight">3.0</data>
+</edge>
+<edge id="5" source="0" target="7">
+<data key="weight">2.0</data>
+</edge>
+<edge id="6" source="0" target="9">
+<data key="weight">1.0</data>
+</edge>
+<edge id="7" source="0" target="12">
+<data key="weight">3.0</data>
+</edge>
+<edge id="8" source="0" target="19">
+<data key="weight">1.0</data>
+</edge>
+<edge id="9" source="1" target="2">
+<data key="weight">7.0</data>
+</edge>
+<edge id="10" source="1" target="3">
+<data key="weight">10.0</data>
+</edge>
+<edge id="11" source="1" target="4">
+<data key="weight">4.0</data>
+</edge>
+<edge id="12" source="1" target="5">
+<data key="weight">1.0</data>
+</edge>
+<edge id="13" source="1" target="6">
+<data key="weight">3.0</data>
+</edge>
+<edge id="14" source="1" target="7">
+<data key="weight">11.0</data>
+</edge>
+<edge id="15" source="1" target="8">
+<data key="weight">1.0</data>
+</edge>
+<edge id="16" source="1" target="9">
+<data key="weight">4.0</data>
+</edge>
+<edge id="17" source="1" target="10">
+<data key="weight">1.0</data>
+</edge>
+<edge id="18" source="1" target="11">
+<data key="weight">2.0</data>
+</edge>
+<edge id="19" source="1" target="12">
+<data key="weight">5.0</data>
+</edge>
+<edge id="20" source="1" target="13">
+<data key="weight">3.0</data>
+</edge>
+<edge id="21" source="1" target="14">
+<data key="weight">1.0</data>
+</edge>
+<edge id="22" source="1" target="15">
+<data key="weight">1.0</data>
+</edge>
+<edge id="23" source="1" target="16">
+<data key="weight">3.0</data>
+</edge>
+<edge id="24" source="1" target="17">
+<data key="weight">2.0</data>
+</edge>
+<edge id="25" source="1" target="20">
+<data key="weight">1.0</data>
+</edge>
+<edge id="26" source="2" target="3">
+<data key="weight">1.0</data>
+</edge>
+<edge id="27" source="2" target="5">
+<data key="weight">1.0</data>
+</edge>
+<edge id="28" source="2" target="6">
+<data key="weight">4.0</data>
+</edge>
+<edge id="29" source="2" target="7">
+<data key="weight">2.0</data>
+</edge>
+<edge id="30" source="2" target="12">
+<data key="weight">1.0</data>
+</edge>
+<edge id="31" source="2" target="13">
+<data key="weight">2.0</data>
+</edge>
+<edge id="32" source="2" target="19">
+<data key="weight">1.0</data>
+</edge>
+<edge id="33" source="3" target="4">
+<data key="weight">3.0</data>
+</edge>
+<edge id="34" source="3" target="6">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35" source="3" target="7">
+<data key="weight">2.0</data>
+</edge>
+<edge id="36" source="3" target="9">
+<data key="weight">7.0</data>
+</edge>
+<edge id="37" source="3" target="10">
+<data key="weight">2.0</data>
+</edge>
+<edge id="38" source="3" target="12">
+<data key="weight">2.0</data>
+</edge>
+<edge id="39" source="3" target="13">
+<data key="weight">1.0</data>
+</edge>
+<edge id="40" source="4" target="9">
+<data key="weight">1.0</data>
+</edge>
+<edge id="41" source="5" target="6">
+<data key="weight">1.0</data>
+</edge>
+<edge id="42" source="6" target="7">
+<data key="weight">1.0</data>
+</edge>
+<edge id="43" source="6" target="12">
+<data key="weight">1.0</data>
+</edge>
+<edge id="44" source="6" target="19">
+<data key="weight">1.0</data>
+</edge>
+<edge id="45" source="7" target="8">
+<data key="weight">1.0</data>
+</edge>
+<edge id="46" source="7" target="9">
+<data key="weight">1.0</data>
+</edge>
+<edge id="47" source="7" target="11">
+<data key="weight">3.0</data>
+</edge>
+<edge id="48" source="7" target="12">
+<data key="weight">21.0</data>
+</edge>
+<edge id="49" source="7" target="13">
+<data key="weight">2.0</data>
+</edge>
+<edge id="50" source="7" target="16">
+<data key="weight">5.0</data>
+</edge>
+<edge id="51" source="7" target="20">
+<data key="weight">1.0</data>
+</edge>
+<edge id="52" source="9" target="10">
+<data key="weight">2.0</data>
+</edge>
+<edge id="53" source="9" target="12">
+<data key="weight">1.0</data>
+</edge>
+<edge id="54" source="9" target="13">
+<data key="weight">1.0</data>
+</edge>
+<edge id="55" source="11" target="16">
+<data key="weight">1.0</data>
+</edge>
+<edge id="56" source="12" target="16">
+<data key="weight">1.0</data>
+</edge>
+<edge id="57" source="13" target="18">
+<data key="weight">1.0</data>
+</edge>
+</graph>
+</graphml>

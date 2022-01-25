@@ -1,0 +1,7 @@
+#term ID	term description	observed gene count	background gene count	false discovery rate	matching proteins in your network (IDs)	matching proteins in your network (labels)
+MMU-114608	Platelet degranulation	3	121	0.0110	ENSMUSP00000021028,ENSMUSP00000099945,ENSMUSP00000123924	Itgb3,Plek,Selp
+MMU-202733	Cell surface interactions at the vascular wall	3	103	0.0110	ENSMUSP00000021028,ENSMUSP00000027871,ENSMUSP00000123924	Itgb3,Sell,Selp
+MMU-76005	Response to elevated platelet cytosolic Ca2+	3	125	0.0110	ENSMUSP00000021028,ENSMUSP00000099945,ENSMUSP00000123924	Itgb3,Plek,Selp
+MMU-109582	Hemostasis	4	489	0.0241	ENSMUSP00000021028,ENSMUSP00000027871,ENSMUSP00000099945,ENSMUSP00000123924	Itgb3,Plek,Sell,Selp
+MMU-422475	Axon guidance	3	248	0.0252	ENSMUSP00000021028,ENSMUSP00000042211,ENSMUSP00000127329	Itgb3,Sema7a,Vldlr
+MMU-76002	Platelet activation, signaling and aggregation	3	242	0.0252	ENSMUSP00000021028,ENSMUSP00000099945,ENSMUSP00000123924	Itgb3,Plek,Selp

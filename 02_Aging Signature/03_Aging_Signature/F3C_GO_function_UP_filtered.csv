@@ -1,0 +1,11 @@
+GO.ID,term.description,observed,background,FDR,Genes
+GO:0050839,cell adhesion molecule binding,10,207,0.00082,"Cd9,Dsg2,Fap,Itgb3,Kdr,Mmp14,Ndrg1,Neo1,Sema7a,Vwf"
+GO:0005509,calcium ion binding,16,594,0.002,"Dsg2,Ehd3,Hpgds,Kcnip3,Matn4,Mmrn1,Pclo,Pla2g4a,Plscr1,Pros1,Rgn,S100a6,Selp,Tgm2,Thbd,Vldlr"
+GO:0043169,cation binding,49,3516,0.0035,"Abat,Acpp,Ampd3,Arhgap29,Arhgef28,Aspa,Bcl6,Bmpr1a,Chrna7,Clca1,Cyb561,Cyp26b1,Ddr1,Dsg2,Egr1,Ehd3,Enpp5,Fhl1,Gda,Gem,Gstm1,Hpgds,Kcnip3,Matn4,Mmp14,Mmrn1,Mt1,Nt5c3,Pclo,Pgr,Phf11d,Pla2g4a,Plscr1,Plscr2,Prnp,Pros1,Rgn,Rorb,Rorc,Runx1t1,S100a6,Selp,Tgm2,Thbd,Tnfsf10,Trim47,Vldlr,Zfp36,Zswim5"
+GO:0004888,transmembrane signaling receptor activity,19,863,0.0037,"Bmpr1a,Chrna7,Clec1b,Cysltr2,Ddr1,Gabra4,Ghr,Gpr183,Gpr64,Il1rapl2,Kdr,Lpar6,Osmr,Ptger4,Ramp2,Rorb,Sfrp1,Thbd,Vldlr"
+GO:0004364,glutathione transferase activity,4,28,0.0041,"Gstm1,Gstm2,Gstm7,Hpgds"
+GO:0005102,signaling receptor binding,27,1515,0.0041,"Cd9,Clu,Cxcl16,Dnm3,Efna1,Fap,Fyb,Gstm7,Itgb3,Kdr,Lpl,Ly6e,Mmp14,Neo1,Nrg4,Ntf3,Pdgfd,Pgr,Plcl1,Plscr1,Plscr4,Prnp,Prtn3,Sema7a,Sfrp1,Tnfsf10,Vwf"
+GO:0046872,metal ion binding,47,3430,0.0054,"Abat,Ampd3,Arhgap29,Arhgef28,Aspa,Bcl6,Bmpr1a,Clca1,Cyb561,Cyp26b1,Ddr1,Dsg2,Egr1,Ehd3,Enpp5,Fhl1,Gda,Gem,Gstm1,Hpgds,Kcnip3,Matn4,Mmp14,Mmrn1,Mt1,Nt5c3,Pclo,Pgr,Phf11d,Pla2g4a,Plscr1,Plscr2,Prnp,Pros1,Rgn,Rorb,Rorc,Runx1t1,S100a6,Selp,Tgm2,Thbd,Tnfsf10,Trim47,Vldlr,Zfp36,Zswim5"
+GO:0090555,phosphatidylethanolamine-translocating ATPase activity,2,2,0.0092,"Abca4,Abcb1a"
+GO:0030246,carbohydrate binding,9,265,0.0094,"C4b,Clec1a,Clec1b,Cntn1,Klrb1b,Klrb1c,Sbspon,Selp,Zg16"
+GO:0030228,lipoprotein particle receptor activity,3,16,0.0101,"Cxcl16,Lsr,Vldlr"

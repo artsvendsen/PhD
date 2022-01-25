@@ -1,0 +1,11 @@
+GO.ID,term.description,observed,background,FDR,Genes
+GO:0004896,cytokine receptor activity,4,88,0.0056,"Csf2rb,Ebi3,Flt3,Il12rb2"
+GO:0050840,extracellular matrix binding,3,56,0.0204,"Anxa2,Ctss,Lgals1"
+GO:0097367,carbohydrate derivative binding,12,2051,0.0204,"Anxa6,Camk1d,Ctss,Flt3,Hnf4a,Mamdc2,Mcm5,Mcm7,Nrk,Rfc2,Sell,Syk"
+GO:0005488,binding,30,10884,0.0211,"Antxr2,Anxa2,Anxa6,Camk1d,Cd34,Cd86,Ctss,Dnmt3b,Ebi3,Ect2,Flt3,Hnf4a,Il12rb2,Il15,Lgals1,Lsp1,Mamdc2,Mcm5,Mcm7,Mgst1,Mlec,Mmp2,Nrk,Plac8,Rfc2,Rnase6,Satb1,Sell,Socs2,Syk"
+GO:0005515,protein binding,22,6454,0.0211,"Anxa2,Anxa6,Camk1d,Cd34,Cd86,Ctss,Dnmt3b,Ebi3,Ect2,Flt3,Hnf4a,Il12rb2,Il15,Lgals1,Lsp1,Mgst1,Mlec,Mmp2,Rfc2,Sell,Socs2,Syk"
+GO:0070492,oligosaccharide binding,2,13,0.0211,"Lgals1,Sell"
+GO:0001968,fibronectin binding,2,30,0.0472,"Ctss,Mmp2"
+GO:0030246,carbohydrate binding,4,265,0.0472,"Cd34,Lgals1,Mlec,Sell"
+GO:0043168,anion binding,12,2578,0.0472,"Anxa2,Anxa6,Camk1d,Cd34,Flt3,Hnf4a,Mcm5,Mcm7,Mgst1,Nrk,Rfc2,Syk"
+GO:0043236,laminin binding,2,31,0.0472,"Ctss,Lgals1"
