@@ -1,0 +1,143 @@
+"Genes","description","Beerman","Chambers","Flach","Grover","Kirshner","Kowalczyk","Noda","Quere","Rossi","Sun","Wahlestedt","Avg","Consistency","order"
+"Sdpr",NA,6.37,NA,1,5.362823021,NA,-1,NA,2.60202,4.9,1.395279169,2.31634,2.868307774,8,1
+"Clca1","chloride channel accessory 1 [Source:MGI Symbol;Acc:MGI:1346342]",NA,NA,1,4.047024557,NA,-1,NA,2.574,2,2.49560921,3.28162,2.056893395,7,2
+"Clec1a","C-type lectin domain family 1, member a [Source:MGI Symbol;Acc:MGI:2444151]",3.32,NA,1,3.551613683,NA,-1,NA,NA,NA,1.427592092,2.14924,1.741407629,6,3
+"Socs3","suppressor of cytokine signaling 3 [Source:MGI Symbol;Acc:MGI:1201791]",4.25,NA,NA,NA,0.814391447,NA,1,NA,2.4,0.45767656,2.50808,1.905024668,6,4
+"Plscr2","phospholipid scramblase 2 [Source:MGI Symbol;Acc:MGI:1270860]",NA,NA,1,3.453236243,NA,NA,NA,2.32428,2.3,2.805522686,4.34446,2.704583155,6,5
+"Itgb3","integrin beta 3 [Source:MGI Symbol;Acc:MGI:96612]",NA,NA,1,2.963108623,NA,-1,NA,1.40419,NA,1.331952609,1.59511,1.215726872,6,6
+"Gda","guanine deaminase [Source:MGI Symbol;Acc:MGI:95678]",NA,NA,1,3.759959492,NA,-1,NA,NA,1.8,1.741694939,2.43231,1.622327405,6,7
+"Wwtr1","WW domain containing transcription regulator 1 [Source:MGI Symbol;Acc:MGI:1917649]",10.25,NA,NA,NA,NA,NA,1,2.60566,NA,1.864621755,3.64734,3.873524351,5,8
+"Alcam","activated leukocyte cell adhesion molecule [Source:MGI Symbol;Acc:MGI:1313266]",4.17,NA,1,NA,NA,NA,NA,NA,3.833333333,1.407432023,1.47519,2.377191071,5,9
+"Rassf4","Ras association (RalGDS/AF-6) domain family member 4 [Source:MGI Symbol;Acc:MGI:2386853]",-4.84,NA,NA,NA,NA,NA,-1,NA,-2.2,-1.047711857,-1.46548,-2.110638371,5,10
+"Arhgap15","Rho GTPase activating protein 15 [Source:MGI Symbol;Acc:MGI:1923367]",-2.9,NA,NA,NA,NA,-1,-1,NA,NA,-0.622657404,-0.74066,-1.252663481,5,11
+"Satb1","special AT-rich sequence binding protein 1 [Source:MGI Symbol;Acc:MGI:105084]",NA,NA,-1,NA,NA,NA,-1,NA,-2.45,-1.435657189,-1.55698,-1.488527438,5,12
+"Lgals1","lectin, galactose binding, soluble 1 [Source:MGI Symbol;Acc:MGI:96777]",NA,NA,-1,NA,NA,-1,NA,NA,-4.6,-0.646873176,-1.50968,-1.751310635,5,13
+"Clu","clusterin [Source:MGI Symbol;Acc:MGI:88423]",NA,NA,NA,2.570191876,NA,NA,NA,2.02852,3,2.279063003,3.21473,2.618500976,5,14
+"Selp","selectin, platelet [Source:MGI Symbol;Acc:MGI:98280]",NA,NA,1,4.422477499,NA,NA,NA,NA,17.1,2.395587556,3.26728,5.637069011,5,15
+"Aldh1a1","aldehyde dehydrogenase family 1, subfamily A1 [Source:MGI Symbol;Acc:MGI:1353450]",NA,NA,NA,4.343514043,NA,-1,NA,2.88669,NA,1.129204203,1.84459,1.840799649,5,16
+"Ehd3","EH-domain containing 3 [Source:MGI Symbol;Acc:MGI:1928900]",NA,NA,NA,NA,NA,-1,NA,1.86235,4.6,1.648094553,2.30042,1.882172911,5,17
+"Mt1","metallothionein 1 [Source:MGI Symbol;Acc:MGI:97171]",NA,NA,NA,4.910165133,NA,NA,1,2.258,NA,1.391727102,2.80748,2.473474447,5,18
+"Klhl4","kelch-like 4 [Source:MGI Symbol;Acc:MGI:2442829]",NA,NA,1,3.235089235,NA,NA,NA,NA,2.6,1.618982169,1.67501,2.025816281,5,19
+"Osmr","oncostatin M receptor [Source:MGI Symbol;Acc:MGI:1330819]",NA,NA,1,NA,NA,NA,1,NA,5.8,3.627401254,4.12783,3.111046251,5,20
+"Runx1t1","RUNX1 translocation partner 1 [Source:MGI Symbol;Acc:MGI:104793]",NA,NA,1,NA,NA,-1,1,NA,NA,1.201746085,2.09917,0.860183217,5,21
+"Rorb","RAR-related orphan receptor beta [Source:MGI Symbol;Acc:MGI:1343464]",NA,NA,1,NA,NA,NA,1,NA,5.4,3.675778095,1.29189,2.473533619,5,22
+"Il15","interleukin 15 [Source:MGI Symbol;Acc:MGI:103014]",NA,NA,-1,NA,NA,-1,NA,NA,-2.6,-0.811034534,-0.90849,-1.263904907,5,23
+"Rnase6","ribonuclease, RNase A family, 6 [Source:MGI Symbol;Acc:MGI:1925666]",NA,NA,-1,NA,NA,-1,NA,NA,-3.4,-1.087881456,-1.57042,-1.611660291,5,24
+"Plac8","placenta-specific 8 [Source:MGI Symbol;Acc:MGI:2445289]",NA,NA,-1,NA,NA,-1,NA,-0.875512,NA,-0.993955694,-2.17002,-1.207897539,5,25
+"Ms4a6b","membrane-spanning 4-domains, subfamily A, member 6B [Source:MGI Symbol;Acc:MGI:1917024]",NA,NA,-1,NA,NA,NA,-1,NA,-1.9,-0.555502821,-1.15355,-1.121810564,5,26
+"Btg2","BTG anti-proliferation factor 2 [Source:MGI Symbol;Acc:MGI:108384]",NA,NA,NA,5.06026451,0.971217105,NA,1,NA,4.4,-2.331185452,NA,1.820059233,5,27
+"Id2","inhibitor of DNA binding 2 [Source:MGI Symbol;Acc:MGI:96397]",NA,NA,NA,3.314474713,NA,-1,1,NA,NA,1.311868124,1.57834,1.240936567,5,28
+"Sema7a","sema domain, immunoglobulin domain (Ig), and GPI membrane anchor, (semaphorin) 7A [Source:MGI Symbol;Acc:MGI:1306826]",4.55,NA,1,NA,NA,NA,NA,NA,NA,0.936900965,1.26334,1.937560241,4,29
+"Nrk","Nik related kinase [Source:MGI Symbol;Acc:MGI:1351326]",-3.16,NA,-1,NA,NA,NA,NA,NA,NA,-1.453812938,-1.54431,-1.789530734,4,30
+"Hmga2","high mobility group AT-hook 2 [Source:MGI Symbol;Acc:MGI:101761]",-2.06,NA,NA,NA,NA,NA,-1,-1.89577,NA,NA,-1.35025,-1.576505,4,31
+"Hist1h1c",NA,-3.79,NA,NA,NA,NA,NA,NA,1.29964,2.15,-1.19088219,NA,-0.382810548,4,32
+"Tipin","timeless interacting protein [Source:MGI Symbol;Acc:MGI:1921571]",-2.94,NA,-1,NA,NA,NA,NA,NA,-2.3,-0.395872622,NA,-1.658968155,4,33
+"Syce2","synaptonemal complex central element protein 2 [Source:MGI Symbol;Acc:MGI:1919096]",-3.78,NA,-1,NA,NA,NA,NA,NA,NA,-0.488068894,-0.81771,-1.521444724,4,34
+"Cdc6","cell division cycle 6 [Source:MGI Symbol;Acc:MGI:1345150]",-2.45,NA,NA,NA,NA,NA,-1,NA,NA,-0.66719556,-0.86906,-1.24656389,4,35
+"Cd37","CD37 antigen [Source:MGI Symbol;Acc:MGI:88330]",NA,NA,-1,NA,NA,-1,NA,NA,NA,-1.072484004,-0.76335,-0.958958501,4,36
+"Flt3","FMS-like tyrosine kinase 3 [Source:MGI Symbol;Acc:MGI:95559]",NA,NA,-1,NA,NA,-1,NA,NA,-2.9,-1.622402349,NA,-1.630600587,4,37
+"Ebi3","Epstein-Barr virus induced gene 3 [Source:MGI Symbol;Acc:MGI:1354171]",NA,NA,-1,NA,NA,NA,NA,NA,-5.4,-1.217751585,-1.7685,-2.346562896,4,38
+"Prim1","DNA primase, p49 subunit [Source:MGI Symbol;Acc:MGI:97757]",NA,NA,-1,NA,NA,NA,NA,NA,-1.8,-0.414893423,-0.83847,-1.013340856,4,39
+"Neo1","neogenin [Source:MGI Symbol;Acc:MGI:1097159]",NA,NA,NA,NA,NA,NA,1,NA,1.95,1.654441873,2.25629,1.715182968,4,40
+"Oxr1","oxidation resistance 1 [Source:MGI Symbol;Acc:MGI:2179326]",NA,NA,NA,3.205633697,NA,NA,NA,NA,1.6,1.037682105,1.22541,1.767181451,4,41
+"Mef2c","myocyte enhancer factor 2C [Source:MGI Symbol;Acc:MGI:99458]",NA,NA,1,NA,NA,NA,NA,NA,2.4,0.387581441,0.89618,1.17094036,4,42
+"Fap","fibroblast activation protein [Source:MGI Symbol;Acc:MGI:109608]",NA,NA,1,NA,NA,NA,NA,NA,3.8,2.122012927,3.51482,2.609208232,4,43
+"Fhl1","four and a half LIM domains 1 [Source:MGI Symbol;Acc:MGI:1298387]",NA,NA,NA,2.492331858,NA,NA,NA,NA,1.8,1.049545003,1.38612,1.681999215,4,44
+"Fosb","FBJ osteosarcoma oncogene B [Source:MGI Symbol;Acc:MGI:95575]",NA,NA,NA,NA,0.9125,NA,1,3.91007,NA,-4.658855586,NA,0.290928603,4,45
+"Itga6","integrin alpha 6 [Source:MGI Symbol;Acc:MGI:96605]",NA,NA,NA,2.668097789,NA,NA,NA,NA,2.7,0.648436552,1.03359,1.762531085,4,46
+"Sult1a1","sulfotransferase family 1A, phenol-preferring, member 1 [Source:MGI Symbol;Acc:MGI:102896]",NA,NA,NA,4.77870034,NA,-1,NA,NA,NA,1.995549715,2.32306,2.024327514,4,47
+"Slamf1","signaling lymphocytic activation molecule family member 1 [Source:MGI Symbol;Acc:MGI:1351314]",NA,NA,NA,NA,NA,NA,NA,1.95492,1.6,0.880850595,1.1016,1.384342649,4,48
+"Bcl3","B cell leukemia/lymphoma 3 [Source:MGI Symbol;Acc:MGI:88140]",NA,NA,NA,NA,NA,NA,1,NA,2.9,0.913550193,0.83512,1.412167548,4,49
+"Mt2","metallothionein 2 [Source:MGI Symbol;Acc:MGI:97172]",NA,NA,NA,NA,NA,NA,1,3.19272,NA,1.630719581,2.47926,2.075674895,4,50
+"Egr1","early growth response 1 [Source:MGI Symbol;Acc:MGI:95295]",NA,NA,NA,4.625041925,0.870723684,NA,NA,1.86848,NA,-1.915149699,NA,1.362273977,4,51
+"Thbd","thrombomodulin [Source:MGI Symbol;Acc:MGI:98736]",NA,NA,NA,NA,NA,NA,NA,1.23641,1.9,0.763441561,1.0365,1.23408789,4,52
+"Sell","selectin, lymphocyte [Source:MGI Symbol;Acc:MGI:98279]",NA,NA,-1,NA,NA,-1,NA,NA,NA,-1.01237963,-1.66456,-1.169234907,4,53
+"Nr4a2","nuclear receptor subfamily 4, group A, member 2 [Source:MGI Symbol;Acc:MGI:1352456]",NA,NA,NA,NA,0.960526316,NA,1,NA,2.95,-1.300801158,NA,0.902431289,4,54
+"Jam2","junction adhesion molecule 2 [Source:MGI Symbol;Acc:MGI:1933820]",NA,NA,NA,NA,NA,-1,NA,NA,2.7,1.669149184,2.75194,1.530272296,4,55
+"Ctss","cathepsin S [Source:MGI Symbol;Acc:MGI:107341]",NA,NA,-1,NA,NA,-1,NA,NA,-4.8,-0.836085413,NA,-1.909021353,4,56
+"Ptprk","protein tyrosine phosphatase, receptor type, K [Source:MGI Symbol;Acc:MGI:103310]",NA,NA,1,NA,NA,NA,NA,NA,2.1,2.102198826,1.7082,1.727599707,4,57
+"Gpr183","G protein-coupled receptor 183 [Source:MGI Symbol;Acc:MGI:2442034]",NA,NA,1,2.317138066,NA,NA,NA,NA,NA,3.711406492,4.37454,2.85077114,4,58
+"Gm106",NA,NA,NA,1,NA,NA,NA,NA,NA,4.45,3.896359339,5.0333,3.594914835,4,59
+"Abca4","ATP-binding cassette, sub-family A (ABC1), member 4 [Source:MGI Symbol;Acc:MGI:109424]",NA,NA,1,NA,NA,NA,NA,NA,3,1.498739993,1.98423,1.870742498,4,60
+"Klrb1c","killer cell lectin-like receptor subfamily B member 1C [Source:MGI Symbol;Acc:MGI:107538]",NA,NA,1,NA,NA,NA,NA,NA,3.4,2.918591953,2.29071,2.402325488,4,61
+"Epb4.1l3",NA,NA,NA,-1,NA,NA,NA,NA,NA,-3,-1.147803418,-1.04795,-1.548938354,4,62
+"Phldb2","pleckstrin homology like domain, family B, member 2 [Source:MGI Symbol;Acc:MGI:2444981]",NA,NA,-1,NA,NA,NA,NA,NA,-1.5,-1.350479414,-0.90223,-1.188177353,4,63
+"Cd34","CD34 antigen [Source:MGI Symbol;Acc:MGI:88329]",NA,NA,-1,NA,NA,-1,NA,NA,NA,-0.96178016,-0.94622,-0.97700004,4,64
+"Tmsb10","thymosin, beta 10 [Source:MGI Symbol;Acc:MGI:109146]",NA,NA,-1,NA,NA,-1,NA,NA,-2.3,-0.481445462,NA,-1.195361365,4,65
+"Arhgap30","Rho GTPase activating protein 30 [Source:MGI Symbol;Acc:MGI:2684948]",NA,NA,-1,NA,NA,NA,-1,NA,NA,-1.074005829,-1.18358,-1.064396457,4,66
+"Mgst1","microsomal glutathione S-transferase 1 [Source:MGI Symbol;Acc:MGI:1913850]",NA,NA,-1,NA,NA,-1,NA,NA,NA,-0.675603197,-1.18624,-0.965460799,4,67
+"Anxa2","annexin A2 [Source:MGI Symbol;Acc:MGI:88246]",NA,NA,-1,NA,NA,-1,NA,NA,NA,-0.55150038,-0.8335,-0.846250095,4,68
+"Nupr1","nuclear protein transcription regulator 1 [Source:MGI Symbol;Acc:MGI:1891834]",NA,NA,NA,5.158768845,NA,-1,NA,NA,NA,2.433939546,3.27435,2.466764598,4,69
+"Nr4a1","nuclear receptor subfamily 4, group A, member 1 [Source:MGI Symbol;Acc:MGI:1352454]",NA,NA,NA,3.323580738,0.959375,NA,1,NA,NA,-3.298875845,NA,0.496019973,4,70
+"Ier2","immediate early response 2 [Source:MGI Symbol;Acc:MGI:104815]",NA,NA,NA,3.274870747,0.746052632,NA,NA,NA,2.3,-1.475881968,NA,1.211260353,4,71
+"Nfkbiz","nuclear factor of kappa light polypeptide gene enhancer in B cells inhibitor, zeta [Source:MGI Symbol;Acc:MGI:1931595]",NA,NA,NA,2.996307004,0.762993421,NA,1,NA,NA,-1.361672814,NA,0.849406903,4,72
+"Tgm2","transglutaminase 2, C polypeptide [Source:MGI Symbol;Acc:MGI:98731]",NA,NA,NA,2.356355858,NA,-1,NA,NA,NA,0.863428574,1.07342,0.823301108,4,73
+"Jun","jun proto-oncogene [Source:MGI Symbol;Acc:MGI:96646]",NA,NA,NA,NA,0.860855263,NA,1,2.07079,NA,-3.136252664,NA,0.19884815,4,74
+"Plk2","polo like kinase 2 [Source:MGI Symbol;Acc:MGI:1099790]",NA,NA,NA,NA,NA,-1,1,NA,NA,1.359299041,1.99165,0.83773726,4,75
+"Vwf","Von Willebrand factor [Source:MGI Symbol;Acc:MGI:98941]",NA,NA,NA,NA,NA,-1,NA,2.37539,NA,1.574642519,1.9894,1.23485813,4,76
+"Trim47","tripartite motif-containing 47 [Source:MGI Symbol;Acc:MGI:1917374]",NA,NA,NA,NA,NA,-1,NA,NA,2,1.111458478,1.40524,0.879174619,4,77
+"Gadd45g","growth arrest and DNA-damage-inducible 45 gamma [Source:MGI Symbol;Acc:MGI:1346325]",NA,NA,NA,NA,NA,-1,NA,NA,1.8,1.310129784,2.49844,1.152142446,4,78
+"Maf","avian musculoaponeurotic fibrosarcoma oncogene homolog [Source:MGI Symbol;Acc:MGI:96909]",NA,NA,NA,NA,NA,NA,1,NA,2,1.267342562,2.55951,1.70671314,4,79
+"Pcdhb16","protocadherin beta 16 [Source:MGI Symbol;Acc:MGI:2136752]",NA,NA,NA,NA,NA,NA,1,NA,2,1.474968523,1.54155,1.504129631,4,80
+"Ripk4","receptor-interacting serine-threonine kinase 4 [Source:MGI Symbol;Acc:MGI:1919638]",NA,NA,NA,NA,NA,NA,1,NA,2.5,3.883248562,3.50058,2.72095714,4,81
+"Klf1","Kruppel-like factor 1 (erythroid) [Source:MGI Symbol;Acc:MGI:1342771]",NA,NA,NA,NA,NA,NA,-1,1.65402,NA,-1.349197392,-1.1684,-0.465894348,4,82
+"Cysltr2","cysteinyl leukotriene receptor 2 [Source:MGI Symbol;Acc:MGI:1917336]",NA,NA,NA,NA,NA,NA,1,NA,1.8,1.480789069,1.86091,1.535424767,4,83
+"Gpr64",NA,NA,NA,NA,NA,NA,NA,1,2.93403,NA,1.402665646,3.09935,2.109011412,4,84
+"Rab40b","Rab40B, member RAS oncogene family [Source:MGI Symbol;Acc:MGI:2183451]",NA,NA,NA,NA,NA,NA,1,NA,2.4,1.102831057,1.41843,1.480315264,4,85
+"Rapgef3","Rap guanine nucleotide exchange factor (GEF) 3 [Source:MGI Symbol;Acc:MGI:2441741]",NA,NA,NA,NA,NA,NA,1,1.29807,2.9,0.407594531,NA,1.401416133,4,86
+"P2ry14","purinergic receptor P2Y, G-protein coupled, 14 [Source:MGI Symbol;Acc:MGI:2155705]",NA,NA,NA,NA,NA,NA,-1,NA,-1.9,-1.699929103,-1.56026,-1.540047276,4,87
+"B3galt1","UDP-Gal:betaGlcNAc beta 1,3-galactosyltransferase, polypeptide 1 [Source:MGI Symbol;Acc:MGI:1349403]",NA,NA,NA,NA,NA,NA,NA,3.57861,4.7,1.166504752,2.13117,2.894071188,4,88
+"B2m","beta-2 microglobulin [Source:MGI Symbol;Acc:MGI:88127]",2.37,NA,NA,NA,NA,NA,NA,NA,3.9,0.300028412,NA,2.190009471,3,89
+"Nsf","N-ethylmaleimide sensitive fusion protein [Source:MGI Symbol;Acc:MGI:104560]",2.5,NA,NA,NA,NA,NA,NA,NA,4.1,0.369810508,NA,2.323270169,3,90
+"Plxnb2","plexin B2 [Source:MGI Symbol;Acc:MGI:2154239]",3.7,NA,NA,NA,NA,NA,NA,NA,1.7,0.613294192,NA,2.004431397,3,91
+"Ghr","growth hormone receptor [Source:MGI Symbol;Acc:MGI:95708]",2.65,NA,NA,NA,NA,NA,NA,NA,NA,1.019701743,1.27494,1.648213914,3,92
+"Mllt3","myeloid/lymphoid or mixed-lineage leukemia; translocated to, 3 [Source:MGI Symbol;Acc:MGI:1917372]",-2.2,NA,NA,NA,NA,NA,NA,NA,NA,0.561026491,1.03174,-0.20241117,3,93
+"Itgb5","integrin beta 5 [Source:MGI Symbol;Acc:MGI:96614]",-5.31,NA,NA,NA,NA,NA,NA,NA,-3.8,-1.733965187,NA,-3.614655062,3,94
+"Dnmt3b","DNA methyltransferase 3B [Source:MGI Symbol;Acc:MGI:1261819]",-3.13,NA,NA,NA,NA,NA,NA,NA,NA,-0.492983065,-0.84387,-1.488951022,3,95
+"Tsc22d1","TSC22 domain family, member 1 [Source:MGI Symbol;Acc:MGI:109127]",NA,NA,NA,2.322564031,0.796052632,NA,NA,NA,NA,0.393358814,NA,1.170658492,3,96
+"Mmp2","matrix metallopeptidase 2 [Source:MGI Symbol;Acc:MGI:97009]",NA,NA,NA,NA,NA,NA,NA,NA,-1.95,-1.608267241,-1.62229,-1.726852414,3,97
+"Anxa6","annexin A6 [Source:MGI Symbol;Acc:MGI:88255]",NA,NA,-1,NA,NA,-1,NA,NA,NA,-1.179508301,NA,-1.0598361,3,98
+"Mcm7","minichromosome maintenance complex component 7 [Source:MGI Symbol;Acc:MGI:1298398]",NA,NA,-1,NA,NA,NA,NA,NA,-3.2,-0.462075778,NA,-1.554025259,3,99
+"Cd86","CD86 antigen [Source:MGI Symbol;Acc:MGI:101773]",NA,NA,-1,NA,NA,NA,NA,NA,-4.4,-1.941080432,NA,-2.447026811,3,100
+"Slc12a6","solute carrier family 12, member 6 [Source:MGI Symbol;Acc:MGI:2135960]",NA,NA,-1,NA,NA,-1,NA,NA,NA,-0.37437038,NA,-0.791456793,3,101
+"Kif23","kinesin family member 23 [Source:MGI Symbol;Acc:MGI:1919069]",NA,NA,NA,NA,NA,NA,NA,NA,-13.6,-0.724334384,-1.0042,-5.109511461,3,102
+"Lst1","leukocyte specific transcript 1 [Source:MGI Symbol;Acc:MGI:1096324]",NA,NA,NA,NA,NA,NA,NA,NA,-2.5,-0.603571474,-1.0639,-1.389157158,3,103
+"Lsp1","lymphocyte specific 1 [Source:MGI Symbol;Acc:MGI:96832]",NA,NA,-1,NA,NA,NA,NA,NA,-5,-0.492991355,NA,-2.164330452,3,104
+"Socs2","suppressor of cytokine signaling 2 [Source:MGI Symbol;Acc:MGI:1201787]",NA,NA,-1,NA,NA,NA,NA,NA,NA,-1.459651652,-1.12153,-1.193727217,3,105
+"Ncf4","neutrophil cytosolic factor 4 [Source:MGI Symbol;Acc:MGI:109186]",NA,NA,NA,NA,NA,NA,NA,NA,-2.8,-1.210714179,-1.4304,-1.813704726,3,106
+"Timeless","timeless circadian clock 1 [Source:MGI Symbol;Acc:MGI:1321393]",NA,NA,NA,NA,NA,NA,-1,NA,NA,-0.763025171,-1.09327,-0.95209839,3,107
+"Lmna","lamin A [Source:MGI Symbol;Acc:MGI:96794]",NA,NA,NA,NA,0.700740132,NA,NA,NA,-2.1,-0.915622903,NA,-0.771627591,3,108
+"Enpp5","ectonucleotide pyrophosphatase/phosphodiesterase 5 [Source:MGI Symbol;Acc:MGI:1933830]",NA,NA,NA,2.848531971,NA,NA,NA,NA,NA,1.655433716,1.98246,2.162141896,3,109
+"Mmp14","matrix metallopeptidase 14 (membrane-inserted) [Source:MGI Symbol;Acc:MGI:101900]",NA,NA,NA,NA,NA,NA,NA,NA,3.2,0.885912508,1.56368,1.883197503,3,110
+"Gstm2","glutathione S-transferase, mu 2 [Source:MGI Symbol;Acc:MGI:95861]",NA,NA,NA,2.319471596,NA,NA,NA,NA,NA,2.376107674,2.80573,2.500436423,3,111
+"Fyb","FYN binding protein [Source:MGI Symbol;Acc:MGI:1346327]",NA,NA,1,NA,NA,NA,NA,NA,2.9,NA,0.96293,1.620976667,3,112
+"Pbx3","pre B cell leukemia homeobox 3 [Source:MGI Symbol;Acc:MGI:97496]",NA,NA,NA,NA,NA,NA,NA,NA,2.3,1.108385426,0.93183,1.446738475,3,113
+"Muc1","mucin 1, transmembrane [Source:MGI Symbol;Acc:MGI:97231]",NA,NA,NA,NA,NA,NA,NA,NA,3.2,2.37046256,2.59314,2.721200853,3,114
+"Lpl","lipoprotein lipase [Source:MGI Symbol;Acc:MGI:96820]",NA,NA,NA,NA,NA,NA,NA,NA,1.7,1.317972012,1.66664,1.561537337,3,115
+"Plek","pleckstrin [Source:MGI Symbol;Acc:MGI:1860485]",NA,NA,NA,3.504038382,NA,NA,NA,NA,NA,0.328108783,1.5639,1.798682388,3,116
+"Plscr1","phospholipid scramblase 1 [Source:MGI Symbol;Acc:MGI:893575]",NA,NA,NA,NA,NA,-1,NA,NA,NA,0.789685122,0.89192,0.227201707,3,117
+"Matn4","matrilin 4 [Source:MGI Symbol;Acc:MGI:1328314]",NA,NA,NA,NA,NA,NA,NA,4.72487,NA,2.931638272,1.66876,3.108422757,3,118
+"Zfp36","zinc finger protein 36 [Source:MGI Symbol;Acc:MGI:99180]",NA,NA,NA,NA,0.938898026,NA,NA,0.883692,NA,-1.826845324,NA,-0.001418432,3,119
+"Ptger4","prostaglandin E receptor 4 (subtype EP4) [Source:MGI Symbol;Acc:MGI:104311]",NA,NA,NA,NA,NA,NA,1,NA,NA,1.060870486,1.49528,1.185383495,3,120
+"Ptger3","prostaglandin E receptor 3 (subtype EP3) [Source:MGI Symbol;Acc:MGI:97795]",NA,NA,NA,NA,NA,NA,NA,NA,1.6,0.472608457,0.75535,0.942652819,3,121
+"Fos","FBJ osteosarcoma oncogene [Source:MGI Symbol;Acc:MGI:95574]",NA,NA,NA,NA,0.918174342,NA,NA,2.74543,NA,-2.790351556,NA,0.291084262,3,122
+"Rnf128","ring finger protein 128 [Source:MGI Symbol;Acc:MGI:1914139]",NA,NA,NA,NA,NA,NA,NA,2.23882,3.6,0.706651419,NA,2.181823806,3,123
+"Ampd3","adenosine monophosphate deaminase 3 [Source:MGI Symbol;Acc:MGI:1096344]",NA,NA,NA,NA,NA,NA,NA,NA,1.9,0.839582593,1.5023,1.413960864,3,124
+"Trpc1","transient receptor potential cation channel, subfamily C, member 1 [Source:MGI Symbol;Acc:MGI:109528]",NA,NA,1,NA,NA,NA,NA,NA,NA,3.013859088,3.2629,2.425586363,3,125
+"Mpeg1","macrophage expressed gene 1 [Source:MGI Symbol;Acc:MGI:1333743]",NA,NA,NA,NA,NA,NA,NA,-1.03028,-4,-0.683841572,NA,-1.904707191,3,126
+"Pawr","PRKC, apoptosis, WT1, regulator [Source:MGI Symbol;Acc:MGI:2149961]",NA,NA,NA,NA,NA,NA,1,NA,NA,1.129063658,0.98394,1.037667886,3,127
+"Scd1","stearoyl-Coenzyme A desaturase 1 [Source:MGI Symbol;Acc:MGI:98239]",NA,NA,NA,NA,NA,NA,NA,NA,1.8,1.137779866,1.88156,1.606446622,3,128
+"Cebpb","CCAAT/enhancer binding protein (C/EBP), beta [Source:MGI Symbol;Acc:MGI:88373]",NA,NA,NA,NA,0.860773026,NA,1,NA,1.7,NA,NA,1.186924342,3,129
+"Il1rapl2","interleukin 1 receptor accessory protein-like 2 [Source:MGI Symbol;Acc:MGI:1913106]",NA,NA,NA,NA,NA,NA,1,NA,2.3,1.777516936,NA,1.692505645,3,130
+"Vldlr","very low density lipoprotein receptor [Source:MGI Symbol;Acc:MGI:98935]",NA,NA,NA,NA,NA,NA,NA,NA,3.625,0.964083999,1.738,2.109028,3,131
+"Gem","GTP binding protein (gene overexpressed in skeletal muscle) [Source:MGI Symbol;Acc:MGI:99844]",NA,NA,NA,NA,NA,NA,1,NA,NA,1.551817543,1.46527,1.339029181,3,132
+"Nt5c3","5'-nucleotidase, cytosolic III [Source:MGI Symbol;Acc:MGI:1927186]",NA,NA,NA,NA,NA,-1,NA,NA,NA,0.586436271,0.77523,0.120555424,3,133
+"Calml4","calmodulin-like 4 [Source:MGI Symbol;Acc:MGI:1922850]",NA,NA,NA,NA,NA,NA,NA,NA,3.5,1.578644038,1.59068,2.223108013,3,134
+"Serpini1","serine (or cysteine) peptidase inhibitor, clade I, member 1 [Source:MGI Symbol;Acc:MGI:1194506]",NA,NA,-1,NA,NA,NA,NA,NA,-2.2,-0.449725782,NA,-1.216575261,3,135
+"Rps6ka3","ribosomal protein S6 kinase polypeptide 3 [Source:MGI Symbol;Acc:MGI:104557]",NA,NA,NA,NA,NA,NA,NA,NA,1.65,0.455193774,1.01462,1.039937925,3,136
+"Mpo","myeloperoxidase [Source:MGI Symbol;Acc:MGI:97137]",NA,NA,NA,NA,NA,NA,NA,NA,-3.5,-1.166424486,-1.87753,-2.181318162,3,137
+"Kdr","kinase insert domain protein receptor [Source:MGI Symbol;Acc:MGI:96683]",NA,NA,NA,NA,NA,NA,NA,NA,3.4,1.270109735,1.46589,2.045333245,3,138
+"Arhgap6","Rho GTPase activating protein 6 [Source:MGI Symbol;Acc:MGI:1196332]",NA,NA,NA,NA,NA,NA,NA,NA,3.4,0.474782762,0.91753,1.597437587,3,139
+"Ngp","neutrophilic granule protein [Source:MGI Symbol;Acc:MGI:105983]",NA,NA,NA,NA,NA,NA,NA,1.58141,-4,-2.053508386,NA,-1.490699462,3,140
+"Clcn3","chloride channel, voltage-sensitive 3 [Source:MGI Symbol;Acc:MGI:103555]",NA,NA,NA,NA,NA,NA,NA,NA,1.9,0.387655254,NA,1.143827627,2,141
+"Casp12","caspase 12 [Source:MGI Symbol;Acc:MGI:1312922]",NA,NA,NA,2.92018092,NA,NA,NA,NA,NA,0.963952412,NA,1.942066666,2,142
