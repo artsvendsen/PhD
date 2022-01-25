@@ -1,0 +1,78 @@
+Entry	Gene names  (primary )	Subcellular location [CC]
+Q80TC6	Zswim5	
+Entry	Gene names  (primary )	Subcellular location [CC]
+P21981	Tgm2	
+Entry	Gene names  (primary )	Subcellular location [CC]
+A6H5Z3	Exoc6b	
+Entry	Gene names  (primary )	Subcellular location [CC]
+Q8CGF0	Zfp334	
+Entry	Gene names  (primary )	Subcellular location [CC]
+Q9JI48	Plac8	
+Entry	Gene names  (primary )	Subcellular location [CC]
+Q61096	Prtn3	SUBCELLULAR LOCATION: Lysosome {ECO:0000250|UniProtKB:P24158}. Secreted {ECO:0000250|UniProtKB:P24158}. Cell membrane {ECO:0000250|UniProtKB:P24158}; Peripheral membrane protein {ECO:0000250|UniProtKB:P24158}; Extracellular side {ECO:0000250|UniProtKB:P24158}. Membrane raft {ECO:0000250|UniProtKB:P24158}; Peripheral membrane protein {ECO:0000250|UniProtKB:P24158}; Extracellular side {ECO:0000250|UniProtKB:P24158}. Note=Localizes predominantly to azurophil granules (primary secretory granules) in neutrophils. Secreted upon neutrophil stimulation by TNF-alpha, lipopolysaccharide (LPS), fMLP and CXCL8/IL8 or during neutrophil transmigration. Following secretion tethered to the cell membrane by CD177. {ECO:0000250|UniProtKB:P24158}.
+Entry	Gene names  (primary )	Subcellular location [CC]
+Q64008	Rab34	SUBCELLULAR LOCATION: Cytoplasm {ECO:0000269|PubMed:12475955}. Golgi apparatus {ECO:0000269|PubMed:12475955}. Cytoplasmic vesicle, phagosome {ECO:0000250|UniProtKB:Q9BZG1}. Cytoplasmic vesicle, phagosome membrane {ECO:0000250|UniProtKB:Q9BZG1}; Lipid-anchor {ECO:0000250|UniProtKB:Q9BZG1}; Cytoplasmic side {ECO:0000250|UniProtKB:Q9BZG1}. Cell projection, cilium {ECO:0000269|PubMed:29290584}. Note=Recruited to phagosomes containing S.aureus or Mycobacterium. {ECO:0000250|UniProtKB:Q9BZG1}.
+Entry	Gene names  (primary )	Subcellular location [CC]
+O89029	Matn4	SUBCELLULAR LOCATION: Secreted.
+Entry	Gene names  (primary )	Subcellular location [CC]
+Q9D244	Rnase6	SUBCELLULAR LOCATION: Secreted {ECO:0000269|PubMed:25075772}. Lysosome {ECO:0000305|PubMed:25075772}. Cytoplasmic granule {ECO:0000269|PubMed:25075772}.
+Entry	Gene names  (primary )	Subcellular location [CC]
+Q9DC53	Cpne8	
+Entry	Gene names  (primary )	Subcellular location [CC]
+Q64253	Ly6e	SUBCELLULAR LOCATION: Cell membrane; Lipid-anchor, GPI-anchor.
+Entry	Gene names  (primary )	Subcellular location [CC]
+Q640N3	Arhgap30	SUBCELLULAR LOCATION: Cytoplasmic vesicle {ECO:0000250}.
+Entry	Gene names  (primary )	Subcellular location [CC]
+Q8CG85	Mamdc2	SUBCELLULAR LOCATION: Secreted, extracellular space, extracellular matrix {ECO:0000269|PubMed:18757743}.
+Entry	Gene names  (primary )	Subcellular location [CC]
+Q04211	Btg2	
+Entry	Gene names  (primary )	Subcellular location [CC]
+P52840	Sult1a1	SUBCELLULAR LOCATION: Cytoplasm {ECO:0000250}.
+Entry	Gene names  (primary )	Subcellular location [CC]
+Q9WV71	Asb4	
+Entry	Gene names  (primary )	Subcellular location [CC]
+P97798	Neo1	SUBCELLULAR LOCATION: Cell membrane; Single-pass type I membrane protein.
+Entry	Gene names  (primary )	Subcellular location [CC]
+Q61056	Trpc1	SUBCELLULAR LOCATION: Membrane {ECO:0000305}; Multi-pass membrane protein {ECO:0000305}.
+Entry	Gene names  (primary )	Subcellular location [CC]
+P97433	Arhgef28	SUBCELLULAR LOCATION: Cytoplasm. Cell membrane. Note=Colocalizes with the microtubule radial and cortical systems.
+Entry	Gene names  (primary )	Subcellular location [CC]
+O70458	Osmr	SUBCELLULAR LOCATION: Membrane {ECO:0000305}; Single-pass type I membrane protein {ECO:0000305}.
+Entry	Gene names  (primary )	Subcellular location [CC]
+Q02496	Muc1	SUBCELLULAR LOCATION: Apical cell membrane; Single-pass type I membrane protein. Note=Exclusively located in the apical domain of the plasma membrane of highly polarized epithelial cells. After endocytosis, internalized and recycled to the cell membrane. Located to microvilli and to the tips of long filopodial protusions (By similarity). {ECO:0000250}.; SUBCELLULAR LOCATION: [Mucin-1 subunit beta]: Cell membrane. Cytoplasm. Nucleus. Note=On EGF and PDGFRB stimulation, transported to the nucleus through interaction with CTNNB1, a process which is stimulated by phosphorylation. On HRG stimulation, colocalizes with JUP/gamma-catenin at the nucleus (By similarity). Some transportation to the nucleus when infected with C.jejeuni. {ECO:0000250}.
+Entry	Gene names  (primary )	Subcellular location [CC]
+O08736	Casp12	
+Entry	Gene names  (primary )	Subcellular location [CC]
+Q9R0G8	Nrk	
+Entry	Gene names  (primary )	Subcellular location [CC]
+Q9Z1A9	Tbc1d8	
+Entry	Gene names  (primary )	Subcellular location [CC]
+Q8CB96	Rassf4	
+Entry	Gene names  (primary )	Subcellular location [CC]
+P27814	Klrb1c	SUBCELLULAR LOCATION: Membrane; Single-pass type II membrane protein.
+Entry	Gene names  (primary )	Subcellular location [CC]
+Q8CGF5	Tlcd4	SUBCELLULAR LOCATION: Membrane {ECO:0000305}; Multi-pass membrane protein {ECO:0000305}.
+Entry	Gene names  (primary )	Subcellular location [CC]
+Q3TMK1	Gm10419	
+Entry	Gene names  (primary )	Subcellular location [CC]
+Q9Z111	Gadd45g	
+Entry	Gene names  (primary )	Subcellular location [CC]
+Q8CGF1	Arhgap29	
+Entry	Gene names  (primary )	Subcellular location [CC]
+O08739	Ampd3	
+Entry	Gene names  (primary )	Subcellular location [CC]
+Q9R111	Gda	
+Entry	Gene names  (primary )	Subcellular location [CC]
+Q9JHK5	Plek	
+Entry	Gene names  (primary )	Subcellular location [CC]
+P02802	Mt1	
+Entry	Gene names  (primary )	Subcellular location [CC]
+Q8BUX1	Klhl4	
+Entry	Gene names  (primary )	Subcellular location [CC]
+O35717	Socs2	
+Entry	Gene names  (primary )	Subcellular location [CC]
+B2RPV6	Mmrn1	SUBCELLULAR LOCATION: Secreted {ECO:0000305}.
+Entry	Gene names  (primary )	Subcellular location [CC]
+Q6PE54	Dhx40	
+Entry	Gene names  (primary )	Subcellular location [CC]
+O08843	Lst1	SUBCELLULAR LOCATION: Membrane {ECO:0000250}; Single-pass membrane protein {ECO:0000250}. Note=Also detected in a perinuclear region corresponding to the localization of the Golgi apparatus and throughout the cytoplasm. {ECO:0000250}.
