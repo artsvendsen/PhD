@@ -1,0 +1,10 @@
+   11187 /Users/Art/Drive/PhD/Experiments/Epigenetics/01_bedfiles/01_ChIPseq/02_overlap_ages//01_H3K4me3.bed
+    1808 /Users/Art/Drive/PhD/Experiments/Epigenetics/01_bedfiles/01_ChIPseq/02_overlap_ages//01_H3K4me3_unique_Old.bed
+     479 /Users/Art/Drive/PhD/Experiments/Epigenetics/01_bedfiles/01_ChIPseq/02_overlap_ages//01_H3K4me3_unique_Young.bed
+   10245 /Users/Art/Drive/PhD/Experiments/Epigenetics/01_bedfiles/01_ChIPseq/02_overlap_ages//02_H3K27me3.bed
+    4810 /Users/Art/Drive/PhD/Experiments/Epigenetics/01_bedfiles/01_ChIPseq/02_overlap_ages//02_H3K27me3_unique_Old.bed
+    3189 /Users/Art/Drive/PhD/Experiments/Epigenetics/01_bedfiles/01_ChIPseq/02_overlap_ages//02_H3K27me3_unique_Young.bed
+   19728 /Users/Art/Drive/PhD/Experiments/Epigenetics/01_bedfiles/01_ChIPseq/02_overlap_ages//03_H3K36me3.bed
+    9745 /Users/Art/Drive/PhD/Experiments/Epigenetics/01_bedfiles/01_ChIPseq/02_overlap_ages//03_H3K36me3_unique_Old.bed
+   22502 /Users/Art/Drive/PhD/Experiments/Epigenetics/01_bedfiles/01_ChIPseq/02_overlap_ages//03_H3K36me3_unique_Young.bed
+   83693 total

@@ -1,0 +1,13 @@
+   11760 /Users/Art/Drive/PhD/Experiments/Epigenetics/01_bedfiles/01_ChIPseq/01_overlap_Sara_Sun/01_H3K4me3_Young.bed
+    3797 /Users/Art/Drive/PhD/Experiments/Epigenetics/01_bedfiles/01_ChIPseq/01_overlap_Sara_Sun/01_H3K4me3_Young_unique_Sara.bed
+    3340 /Users/Art/Drive/PhD/Experiments/Epigenetics/01_bedfiles/01_ChIPseq/01_overlap_Sara_Sun/01_H3K4me3_Young_unique_Sun.bed
+   13067 /Users/Art/Drive/PhD/Experiments/Epigenetics/01_bedfiles/01_ChIPseq/01_overlap_Sara_Sun/02_H3K4me3_Old.bed
+    4508 /Users/Art/Drive/PhD/Experiments/Epigenetics/01_bedfiles/01_ChIPseq/01_overlap_Sara_Sun/02_H3K4me3_Old_unique_Sara.bed
+    3320 /Users/Art/Drive/PhD/Experiments/Epigenetics/01_bedfiles/01_ChIPseq/01_overlap_Sara_Sun/02_H3K4me3_Old_unique_Sun.bed
+   13872 /Users/Art/Drive/PhD/Experiments/Epigenetics/01_bedfiles/01_ChIPseq/01_overlap_Sara_Sun/03_H3K27me3_Young.bed
+   12772 /Users/Art/Drive/PhD/Experiments/Epigenetics/01_bedfiles/01_ChIPseq/01_overlap_Sara_Sun/03_H3K27me3_Young_unique_Sara.bed
+   34201 /Users/Art/Drive/PhD/Experiments/Epigenetics/01_bedfiles/01_ChIPseq/01_overlap_Sara_Sun/03_H3K27me3_Young_unique_Sun.bed
+   15483 /Users/Art/Drive/PhD/Experiments/Epigenetics/01_bedfiles/01_ChIPseq/01_overlap_Sara_Sun/04_H3K27me3_Old.bed
+    5353 /Users/Art/Drive/PhD/Experiments/Epigenetics/01_bedfiles/01_ChIPseq/01_overlap_Sara_Sun/04_H3K27me3_Old_unique_Sara.bed
+   19832 /Users/Art/Drive/PhD/Experiments/Epigenetics/01_bedfiles/01_ChIPseq/01_overlap_Sara_Sun/04_H3K27me3_Old_unique_Sun.bed
+  141305 total
