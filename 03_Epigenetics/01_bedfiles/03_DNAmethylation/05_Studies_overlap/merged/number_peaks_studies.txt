@@ -1,0 +1,8 @@
+     212 /Users/Art/Drive/PhD/Experiments/Epigenetics/01_bedfiles/03_DNAmethylation/05_Studies_overlap/merged/01_hypermethylation_merge.bed
+    3386 /Users/Art/Drive/PhD/Experiments/Epigenetics/01_bedfiles/03_DNAmethylation/05_Studies_overlap/merged/01_hypermethylation_merge_unique_Beerman.bed
+    3276 /Users/Art/Drive/PhD/Experiments/Epigenetics/01_bedfiles/03_DNAmethylation/05_Studies_overlap/merged/01_hypermethylation_merge_unique_Sun.bed
+     135 /Users/Art/Drive/PhD/Experiments/Epigenetics/01_bedfiles/03_DNAmethylation/05_Studies_overlap/merged/02_hypomethylation_merge.bed
+     317 /Users/Art/Drive/PhD/Experiments/Epigenetics/01_bedfiles/03_DNAmethylation/05_Studies_overlap/merged/02_hypomethylation_merge_unique_Beerman.bed
+    3789 /Users/Art/Drive/PhD/Experiments/Epigenetics/01_bedfiles/03_DNAmethylation/05_Studies_overlap/merged/02_hypomethylation_merge_unique_Sun.bed
+    4452 /Users/Art/Drive/PhD/Experiments/Epigenetics/01_bedfiles/03_DNAmethylation/05_Studies_overlap/merged/cat_pre_sorted_trimmed.bed
+   15567 total

@@ -1,0 +1,14 @@
+#Lift over from mm9 to mm10
+1. http://genome.ucsc.edu/cgi-bin/hgLiftOver
+	a. original Genome: Mouse
+	b. Original Assembly: Jul 2007 (NCBI37/mm9)
+	c. New Genome: Mouse
+	d. New Assembly: Dec 2011 (GRCm38/mm10)
+2.no other parameters were changed
+3.bed files extracted from raw data (chr, start, end) were used as input
+4.outout from result was donwloaded.
+
+    3510 01_hypermethylated_with_aging_mm9.txt
+    3511 02_hypermethylated_with_aging_mm10.bed
+    3993 01_hypomethylated_with_aging_mm9.txt
+    3994 02_hypomethylated_with_aging_mm10.bed

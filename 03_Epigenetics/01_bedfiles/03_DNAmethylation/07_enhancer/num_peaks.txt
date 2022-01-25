@@ -1,0 +1,7 @@
+     560 01_enhancer_hypermethylation_Beerman.bed
+     571 01_enhancer_hypermethylation_Sun.bed
+      30 01_enhancer_hypermethylation_common.bed
+      67 02_enhancer_hypomethylation_Beerman.bed
+     635 02_enhancer_hypomethylation_Sun.bed
+      29 02_enhancer_hypomethylation_common.bed
+    1892 total

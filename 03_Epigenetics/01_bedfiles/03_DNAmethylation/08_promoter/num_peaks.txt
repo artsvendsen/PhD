@@ -1,0 +1,7 @@
+     106 01_promoter_hypermethylation_Beerman.bed
+      17 01_promoter_hypermethylation_Sun.bed
+       2 01_promoter_hypermethylation_common.bed
+       8 02_promoter_hypomethylation_Beerman.bed
+      27 02_promoter_hypomethylation_Sun.bed
+       2 02_promoter_hypomethylation_common.bed
+     162 total

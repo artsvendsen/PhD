@@ -1,0 +1,7 @@
+     165 01_hypermethylation.bed
+    3588 01_hypermethylation_unique_Beerman.bed
+    3347 01_hypermethylation_unique_Sun.bed
+     119 02_hypomethylation.bed
+     340 02_hypomethylation_unique_Beerman.bed
+    3877 02_hypomethylation_unique_Sun.bed
+   11436 total

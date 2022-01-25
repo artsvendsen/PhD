@@ -1,0 +1,14 @@
+#Lift over from mm9 to mm10
+1. http://genome.ucsc.edu/cgi-bin/hgLiftOver
+	a. original Genome: Mouse
+	b. Original Assembly: Jul 2007 (NCBI37/mm9)
+	c. New Genome: Mouse
+	d. New Assembly: Dec 2011 (GRCm38/mm10)
+2.no other parameters were changed
+3.bed files extracted from raw data (chr, start, end) were used as input
+4.outout from result was donwloaded.
+
+    3754 02_youngtoold_gain.txt
+    3753 03_youngtoold_gain_mm10.bed
+     457 02_youngtoold_loss.txt
+     458 03_youngtoold_loss_mm10.bed
