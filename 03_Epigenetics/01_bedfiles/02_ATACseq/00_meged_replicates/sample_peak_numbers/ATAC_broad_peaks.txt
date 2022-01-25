@@ -1,0 +1,5 @@
+  322627 /Volumes/AFSvendsen/Data_Analysis/20171012_young_old_LTHSC/20200713_PeakCalling/2017_07_02_ATAC_5_3_old_CGAGGCTG_p0.01_peaks.broadPeak
+  242700 /Volumes/AFSvendsen/Data_Analysis/20171012_young_old_LTHSC/20200713_PeakCalling/2017_07_04_ATAC_5_3_young_GCTACGCT_p0.01_peaks.broadPeak
+  468792 /Volumes/AFSvendsen/Data_Analysis/20171012_young_old_LTHSC/20200713_PeakCalling/2017_07_06_ATAC_5_4_old_GTAGAGGA_p0.01_peaks.broadPeak
+  461860 /Volumes/AFSvendsen/Data_Analysis/20171012_young_old_LTHSC/20200713_PeakCalling/2017_07_08_ATAC_5_4_young_AAGAGGCA_p0.01_peaks.broadPeak
+ 1495979 total

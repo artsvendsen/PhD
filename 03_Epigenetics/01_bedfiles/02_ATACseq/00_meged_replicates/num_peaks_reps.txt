@@ -1,0 +1,13 @@
+  157634 /Users/Art/Drive/PhD/Experiments/Epigenetics/01_bedfiles/02_ATACseq/00_meged_replicates//01_ATAC_Young_broad.bed
+   79833 /Users/Art/Drive/PhD/Experiments/Epigenetics/01_bedfiles/02_ATACseq/00_meged_replicates//01_ATAC_Young_broad_unique_rep1.bed
+  298879 /Users/Art/Drive/PhD/Experiments/Epigenetics/01_bedfiles/02_ATACseq/00_meged_replicates//01_ATAC_Young_broad_unique_rep2.bed
+  168615 /Users/Art/Drive/PhD/Experiments/Epigenetics/01_bedfiles/02_ATACseq/00_meged_replicates//02_ATAC_Old_broad.bed
+  150252 /Users/Art/Drive/PhD/Experiments/Epigenetics/01_bedfiles/02_ATACseq/00_meged_replicates//02_ATAC_Old_broad_unique_rep1.bed
+  290487 /Users/Art/Drive/PhD/Experiments/Epigenetics/01_bedfiles/02_ATACseq/00_meged_replicates//02_ATAC_Old_broad_unique_rep2.bed
+   87654 /Users/Art/Drive/PhD/Experiments/Epigenetics/01_bedfiles/02_ATACseq/00_meged_replicates//03_ATAC_Young_narrow.bed
+   17500 /Users/Art/Drive/PhD/Experiments/Epigenetics/01_bedfiles/02_ATACseq/00_meged_replicates//03_ATAC_Young_narrow_unique_rep1.bed
+   36098 /Users/Art/Drive/PhD/Experiments/Epigenetics/01_bedfiles/02_ATACseq/00_meged_replicates//03_ATAC_Young_narrow_unique_rep2.bed
+   92707 /Users/Art/Drive/PhD/Experiments/Epigenetics/01_bedfiles/02_ATACseq/00_meged_replicates//04_ATAC_Old_narrow.bed
+   22755 /Users/Art/Drive/PhD/Experiments/Epigenetics/01_bedfiles/02_ATACseq/00_meged_replicates//04_ATAC_Old_narrow_unique_rep1.bed
+   36591 /Users/Art/Drive/PhD/Experiments/Epigenetics/01_bedfiles/02_ATACseq/00_meged_replicates//04_ATAC_Old_narrow_unique_rep2.bed
+ 1439005 total

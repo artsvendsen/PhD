@@ -1,0 +1,5 @@
+   48396 /Users/Art/Drive/PhD/Experiments/Epigenetics/01_bedfiles/02_ATACseq/03_enhancer/amit_enhancer_list_mm10.bed
+   21209 01_ATAC_common_enhancers.bed
+   17492 02_ATAC_aged_enhancers.bed
+   15455 03_ATAC_young_enhancers.bed
+   54156 total

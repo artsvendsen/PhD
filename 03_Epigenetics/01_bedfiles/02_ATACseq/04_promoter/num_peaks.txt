@@ -1,0 +1,12 @@
+   13856 01_promoter_overlap_merged_Old_broad.bed
+   13846 01_promoter_overlap_merged_Young_broad.bed
+   13830 02_promoter_overlap_common_broad.bed
+     164 02_promoter_overlap_unique_Old_broad.bed
+     142 02_promoter_overlap_unique_Young_broad.bed
+   12894 03_promoter_overlap_merged_Old_narrow.bed
+   12939 03_promoter_overlap_merged_Young_narrow.bed
+   12892 04_promoter_overlap_common_narrow.bed
+     115 04_promoter_overlap_unique_Old_narrow.bed
+     124 04_promoter_overlap_unique_Young_narrow.bed
+   17631 EPC_promoter_list_sorted.bed
+   98433 total

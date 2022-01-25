@@ -1,0 +1,7 @@
+   98441 /Users/Art/Drive/PhD/Experiments/Epigenetics/01_bedfiles/02_ATACseq/01_overlap_ages/merged/01_ATAC_broad_merged.bed
+   43649 /Users/Art/Drive/PhD/Experiments/Epigenetics/01_bedfiles/02_ATACseq/01_overlap_ages/merged/01_ATAC_broad_unique_Old_merged.bed
+   36472 /Users/Art/Drive/PhD/Experiments/Epigenetics/01_bedfiles/02_ATACseq/01_overlap_ages/merged/01_ATAC_broad_unique_Young_merged.bed
+   67529 /Users/Art/Drive/PhD/Experiments/Epigenetics/01_bedfiles/02_ATACseq/01_overlap_ages/merged/02_ATAC_narrow_merged.bed
+   14241 /Users/Art/Drive/PhD/Experiments/Epigenetics/01_bedfiles/02_ATACseq/01_overlap_ages/merged/02_ATAC_narrow_unique_Old_merged.bed
+   10277 /Users/Art/Drive/PhD/Experiments/Epigenetics/01_bedfiles/02_ATACseq/01_overlap_ages/merged/02_ATAC_narrow_unique_Young_merged.bed
+  270609 total
